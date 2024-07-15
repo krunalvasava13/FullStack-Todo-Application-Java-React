@@ -1,4 +1,4 @@
-# Full Stack Application with Spring Boot and React
+# Full Stack Application with Spring Boot and React js
 
 
 <img src="react_00_architecture.png" width="300">
